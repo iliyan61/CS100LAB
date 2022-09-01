@@ -1,2 +1,2 @@
 # CS100LAB
-cs 100 lab
+repo of stuff for my CS115 labs
